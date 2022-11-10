@@ -12,8 +12,8 @@ The refactored website can be accessed [here](https://crystal-coding-time.github
 
 ## Authors
 
-*edX Boot Camps LLC
-*Eli D. Ter Keurst
+* edX Boot Camps LLC
+* Eli D. Ter Keurst
 
 ## Preview 
 
