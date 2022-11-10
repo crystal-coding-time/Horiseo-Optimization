@@ -1,16 +1,21 @@
-# My First Project
+# My First Project: Code Refactor
 
 This is my first project.
 
 # Scope of Work
 
-Refactored existing code within index.html and style.css
+Refactored existing code within index.html and style.css to improve accessibility for Horiseo's website.
 
-# URL
+## Website URL
 
-My first project can be accessed [here](https://crystal-coding-time.github.io/Horiseo-Optimization/)
+The refactored website can be accessed [here](https://crystal-coding-time.github.io/Horiseo-Optimization/)
 
-# Preview 
+## Authors
+
+*edX Boot Camps LLC
+*Eli D. Ter Keurst
+
+## Preview 
 
 A preview of the site can be found below:
 ![Screenshot of website](./assets/screenshot-first-project.png "Website Screenshot")
