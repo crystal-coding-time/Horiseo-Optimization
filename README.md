@@ -19,3 +19,11 @@ The refactored website can be accessed [here](https://crystal-coding-time.github
 
 A preview of the site can be found below:
 ![Screenshot of website](./assets/screenshot-first-project.png "Website Screenshot")
+
+## Credits
+
+N/A
+
+## License
+
+N/A
